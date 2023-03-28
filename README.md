@@ -10,6 +10,6 @@ You can find the repositores here:
 [frontend](https://github.com/mateussiil/buzzvel-2023-dev-team-test-frontend)
 
 
-You can test online [here](https://buzzvel-2023-dev-team-test-frontend-ossn.vercel.app/generate)
+You can test online [here](https://buzzvel-2023-dev-team-test-frontend-ossn.vercel.app)
 
-link: https://buzzvel-2023-dev-team-test-frontend-ossn.vercel.app/generate
+link: https://buzzvel-2023-dev-team-test-frontend-ossn.vercel.app
